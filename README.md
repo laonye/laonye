@@ -4,7 +4,7 @@ I'm still on the process to join a university, and for the moment my goals are a
 I'm extremely interested in open and free software, specially Linux related. I use Arch, btw.
 <br>
 <br>
-Also, I have a goal this year to make a coding streak as long as I can. The first goal is one year.
+Also, I have a goal to make a coding streak as long as I can.
 <br>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=laonye&theme=github-dark-blue)](https://git.io/streak-stats)
