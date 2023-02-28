@@ -4,4 +4,4 @@ I'm still on the process to join a university, and for the moment my goals are a
 I'm extremely interested in open and free software, specially Linux related. I use Arch, btw.
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=laonye&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=laonye)](https://git.io/streak-stats)
